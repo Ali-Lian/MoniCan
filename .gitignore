@@ -1,0 +1,7 @@
+.env
+config.php
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+trash_proj/node_modules/
